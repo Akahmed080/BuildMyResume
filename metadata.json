@@ -1,0 +1,5 @@
+{
+  "name": "BuildMyResume",
+  "description": "A professional CV maker with AI-powered features and resume importing.",
+  "requestFramePermissions": ["geolocation"]
+}
